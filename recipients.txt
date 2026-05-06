@@ -1,0 +1,7 @@
+# Masukkan address penerima di sini, satu address per baris
+# Contoh:
+# 0xAbc123...
+# 0xDef456...
+
+0xAddress1Here
+0xAddress2Here
